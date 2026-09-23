@@ -1,11 +1,4 @@
-<!-- 
-  =========================================
-  DESIGN SYSTEM: MIDNIGHT CYBERPUNK
-  PRIMARY ACCENT: #00F0FF (Cyan)
-  SECONDARY ACCENT: #FF0055 (Magenta)
-  BACKGROUND: #0D1117 (GitHub Dark)
-  =========================================
--->
+
 
 <div align="center">
   <!-- Premium Animated Header -->
@@ -72,10 +65,10 @@ I am a Full-Stack Software Engineer specializing in building robust, cloud-nativ
 
 <!-- TODO: Replace 'YOUR_PROJECT_1' and 'YOUR_PROJECT_2' with your actual repository names -->
 <div align="center">
-  <a href="https://github.com/egideniyomukiza546-alt/YOUR_PROJECT_1">
+  <a href="https://github.com/egideniyomukiza546-alt/advanced-hospital-sefty-database">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=egideniyomukiza546-alt&repo=YOUR_PROJECT_1&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF0055&text_color=C9D1D9" alt="Project 1" />
   </a>
-  <a href="https://github.com/egideniyomukiza546-alt/YOUR_PROJECT_2">
+  <a href="https://github.com/egideniyomukiza546-alt/ColdChain_DB">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=egideniyomukiza546-alt&repo=YOUR_PROJECT_2&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF0055&text_color=C9D1D9" alt="Project 2" />
   </a>
 </div>
@@ -108,7 +101,7 @@ I am a Full-Stack Software Engineer specializing in building robust, cloud-nativ
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F0FF" alt="Email" />
   </a>
   <!-- Portfolio (Replace YOUR_PORTFOLIO_URL with your actual link) -->
-  <a href="https://YOUR_PORTFOLIO_URL">
+  <a href="https://PL-SQL-Database-Programming">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00F0FF" alt="Portfolio" />
   </a>
 </div>

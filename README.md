@@ -53,8 +53,8 @@ I am a Full-Stack Software Engineer specializing in building robust, cloud-nativ
   <!-- Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=egideniyomukiza546-alt&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF0055&text_color=C9D1D9&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="195" />
   
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=egideniyomukiza546-alt&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=FF0055&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" height="195" />
+  <!-- Streak Stats (Fixed URL to Demolab) -->
+  <img src="https://streak-stats.demolab.com/?user=egideniyomukiza546-alt&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=FF0055&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" height="195" />
 </div>
 
 <div align="center">
@@ -70,6 +70,7 @@ I am a Full-Stack Software Engineer specializing in building robust, cloud-nativ
 <!-- Featured Projects -->
 ## 💼 Featured Deployments
 
+<!-- TODO: Replace 'YOUR_PROJECT_1' and 'YOUR_PROJECT_2' with your actual repository names -->
 <div align="center">
   <a href="https://github.com/egideniyomukiza546-alt/YOUR_PROJECT_1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=egideniyomukiza546-alt&repo=YOUR_PROJECT_1&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF0055&text_color=C9D1D9" alt="Project 1" />
@@ -94,15 +95,19 @@ I am a Full-Stack Software Engineer specializing in building robust, cloud-nativ
 ## 🌐 Establish Connection
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/niyomukiza-egide">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
+  <!-- Twitter -->
+  <a href="https://twitter.com/Niyomukiza65852">
     <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=00F0FF" alt="Twitter" />
   </a>
+  <!-- Email -->
   <a href="mailto:egideniyomukiza546@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F0FF" alt="Email" />
   </a>
+  <!-- Portfolio (Replace YOUR_PORTFOLIO_URL with your actual link) -->
   <a href="https://YOUR_PORTFOLIO_URL">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00F0FF" alt="Portfolio" />
   </a>
@@ -117,5 +122,6 @@ I am a Full-Stack Software Engineer specializing in building robust, cloud-nativ
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/egideniyomukiza546-alt/Niyomukiza-Egide/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" width="100%" />
+  <!-- Snake Animation (Requires GitHub Action setup in the egideniyomukiza546-alt/egideniyomukiza546-alt repo) -->
+  <img src="https://raw.githubusercontent.com/egideniyomukiza546-alt/egideniyomukiza546-alt/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" width="100%" />
 </div>
